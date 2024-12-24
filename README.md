@@ -1,5 +1,5 @@
 
-The Smart Ticket Booking App is designed to provide users with a seamless and efficient way to book tickets for various modes of transport (e.g., buses, trains, flights) or events (e.g., movies, concerts). It leverages modern technologies to ensure a user-friendly experience, optimize booking processes, and support real-time updates.
+The Smart Ticket Booking App is designed to provide users with a seamless and efficient way to book tickets for various modes of transport (e.g., buses, trains, flights) or events. It leverages modern technologies to ensure a user-friendly experience, optimize booking processes, and support real-time updates.
 
 _Features_
 User Authentication: Secure login and signup functionality for customers.
